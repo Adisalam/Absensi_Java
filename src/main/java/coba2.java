@@ -7,6 +7,6 @@
  *
  * @author papah
  */
-public class coba {
+public class coba2 {
     
 }
